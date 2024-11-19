@@ -82,17 +82,17 @@ const articles = [
   {
     title: "Climate Change Impact",
     content: "Understanding the global effects of climate change...",
-    image: "media/mnit_logo.png",
+    image: "media/climate.jpg",
   },
   {
     title: "Sustainable Living",
     content: "Tips for reducing your environmental footprint...",
-    image: "media/mnit_logo.png",
+    image: "media/ocean.jpg",
   },
   {
     title: "Ocean Conservation",
     content: "Protecting marine ecosystems and biodiversity...",
-    image: "media/mnit_logo.png",
+    image: "media/sustainable.jpeg",
   },
 ];
 

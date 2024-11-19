@@ -108,7 +108,7 @@ const articles = [
     title: "Sustainable Living",
     content: "Tips for reducing your environmental footprint...",
     details: "Sustainable living focuses on reducing one's environmental impact through actions such as reducing waste, conserving energy, and adopting eco-friendly practices.",
-    image: "media/sustainable.jpeg",
+    image: "media/suatainable.jpeg",
   },
   {
     title: "Ocean Conservation",
